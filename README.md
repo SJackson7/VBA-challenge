@@ -18,6 +18,7 @@ Features:
 * Script loops through all sheets
 
 Included for review are screenshots of each year's result and the script file:
+* Multiple_year_stock_data.xlsm
 * ticker_reults.vbs
 * results_2018_screenshot.png
 * results_2019_screenshot.png
